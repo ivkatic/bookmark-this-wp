@@ -1,4 +1,4 @@
 ## Simple Bookmark This plugin
 ---
 
-Bookmark post in WP 
+Simple WordPress plugin that allows logged in users to bookmark post/page for later 
